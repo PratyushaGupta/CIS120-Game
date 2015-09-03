@@ -25,3 +25,5 @@ The data structure that I used is a 2D array. The reason I chose this data struc
 The game status display is on the bottom of the screen. It shows the points for the level, the points for the "game" (aka previous levels), the current levels and the number of bricks remaining. This status changes once a player has defeated a level/the game.
 
 The game logic is explained within the comments on the file.
+
+First real Java project :)
